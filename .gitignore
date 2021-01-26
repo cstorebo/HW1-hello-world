@@ -1,0 +1,12 @@
+# This file lists files and directories that shouldn't be included in git's version control
+
+# gtest temp files
+*.gcda
+*.gcno
+
+# built binaries
+bin/
+
+
+# VIM swap files
+*.swp
